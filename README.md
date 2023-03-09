@@ -5,7 +5,7 @@ Full Stack Developer
 
 *   🌍  I'm based in Almaty, Kazakhstan 🇰🇿
 *   🖥️  See my resume at [LinkedIn](https://www.linkedin.com/in/nikita-lukyanenko/)
-*   ✉️  You can contact me at [nikita.lukyanenko02@gmail.com](mailto:nikita.lukyanenko02@gmail.com)
+*   ✉️  You can contact me at [lukyanish@gmail.com](mailto:lukyanish@gmail.com)
 *   🚀  I'm currently working at [Tele2 Kazakhstan](https://tele2.kz) - product [Photon Solutions](https://photon-solutions.io)
 *   ⚙️  My tech stack is: TypeScript, Node.js, Strapi, React, Docker.
 *   🤝  I'm open to collaborating on Web Projects
